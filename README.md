@@ -1,6 +1,6 @@
 # bluetoothpermission
 
-defined
+Bluetooth Permission Plugin is created to enable bluetooth permission in Application
 
 ## Install
 
